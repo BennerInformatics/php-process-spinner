@@ -3,8 +3,7 @@
     "description": "Terminal Spinner for PHP CLI apps",
     "type": "library",
     "require": {
-        "symfony/process": "^3.3",
-        "bramus/ansi-php": "^3.0"
+        "symfony/process": "^3.3"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.2",
