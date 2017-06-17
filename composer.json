@@ -23,7 +23,7 @@
       "psr-4": {
         "BennerInformatics\\Spinner\\": ""
       },
-      "exclude_from_classmap": [
+      "exclude-from-classmap": [
         "/test/"
       ]
     },
